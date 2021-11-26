@@ -1,0 +1,24 @@
+:root {
+  --dark: #292b2c;
+  --light: #f7f7f7;
+  --medium: #d3d3d3;
+  --primary: #ffa25e;
+}
+
+body {
+  background-color: var(--light);
+  font-family: "Montserrat", serif;
+  font-size: 1.2em;
+  line-height: 1.35em;
+  text-align: justify;
+}
+
+.header {
+  
+  margin-bottom: -2em
+}
+
+.heading {
+  border-bottom: 0.125em solid tomato;
+  width: 20%
+}
